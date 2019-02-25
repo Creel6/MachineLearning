@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning Experiments
+Machine Learning Experiments of Coursera
